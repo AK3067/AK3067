@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm AK 👋
 
-<!--
-**AK3067/AK3067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Student | Builder | AI Enthusiast
 
-Here are some ideas to get you started:
+I enjoy creating innovative projects, experimenting with new technologies, and turning ideas into real-world products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+- 💡 Passionate about innovative and out-of-the-box projects
+- 🤖 Experienced in AI-assisted development and Vibe Coding
+- 🧠 Hands-on experience using AI tools including ChatGPT, Claude, Gemini, Codex, GitHub Copilot, and other modern AI systems
+- ⚡ Skilled at rapid prototyping and transforming ideas into working products
+- 🔍 Constantly exploring emerging technologies and future-focused solutions
+- 🚀 Interested in AI, Automation, SaaS, Productivity Tools, and System Design
+
+## 🛠️ Tech Stack
+
+- Python
+- JavaScript
+- React
+- Git & GitHub
+- AI & LLM Integration
+- API Development
+
+## 🚀 Featured Projects
+
+- Aura OS
+- FileFlow
+- Zara AI Assistant
+- Appointment Bot
+
+## 🎯 Current Goals
+
+- Build impactful AI products
+- Launch innovative software solutions
+- Learn advanced system design
+- Create projects that solve real-world problems
+
+> "Innovation begins where curiosity meets action."
